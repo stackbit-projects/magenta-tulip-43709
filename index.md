@@ -4,6 +4,7 @@ layout: home
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
+description: Learn natural japanese.
 ---
 
 # Serif - A Jekyll Business Theme.
